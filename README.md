@@ -1,0 +1,2 @@
+# calculatorinc
+This is the code for the calculator project done in Intro to C Programming @ UNH. 
